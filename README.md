@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @H7snWasHere
+- 👋 Hi, I’m @ahmedhasan974
 - 👀 I’m interested in learning new languages and get myself equipped with as many tools as possible (GitHub, Java, Python, C++...etc.).
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on finding out new personal projects and how to include them on my CV
